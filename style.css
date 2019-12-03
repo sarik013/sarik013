@@ -1,0 +1,33 @@
+h1
+{
+	text-align: center;
+	color: grey;
+	font-size: 100px;
+}
+p
+{
+	color: orange;
+	font-size: 50px;
+	text-align: center;
+}
+body
+{
+	background-image: url(black2.jpg);
+	size: 1;
+}
+h3{
+	font-size: 60px;
+	color: grey;
+}
+h4{
+	font-size: 30px;
+	color: grey;
+}
+img{
+	border-radius:50%;
+	 font-size:1080px;
+}
+h2{
+	color: brown;
+	text-align: left;
+}
